@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 project.ext {
     artifactId = 'stetho-no-op'
-    groupId = 'com.github.alexfrost'
+    groupId = 'com.github.alexfrostdev'
 }
 
 android {

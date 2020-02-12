@@ -1,5 +1,7 @@
 # Stetho-no-op
 
+To add it to gradle see [![](https://jitpack.io/v/alexfrostdev/stetho-no-op.svg)](https://jitpack.io/#alexfrostdev/stetho-no-op/1.0)
+
 ## License
 
     Licensed under the Apache License, Version 2.0 (the "License");
